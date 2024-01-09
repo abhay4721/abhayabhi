@@ -13,6 +13,5 @@
 - 🤖 Arch Hyprland User: Embracing the power of Arch Linux and exploring the realms of customization.
 - 🌐 Introvert: Navigating the coding landscape while enjoying moments of solitude.
 
-Let's connect and collaborate on exciting projects! 🚀
 ```
 
